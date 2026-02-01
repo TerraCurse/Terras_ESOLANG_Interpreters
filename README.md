@@ -1,6 +1,6 @@
 # Terras_ESOLANG_Interpreters
-A collection of interpreters ive made for esolangs.
-List of esolang interpreters:
+A collection of interpreters ive made for esolangs.<br>
+List of interpreters:
 ## Typescript
 * PIG
 * DEADPIG
